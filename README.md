@@ -1,4 +1,4 @@
-# 24. CloudFormation ⭐⭐
+# CloudFormation
 
 ## Introduction
 
